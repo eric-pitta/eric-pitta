@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eric-pitta
-- 👀 I’m interested in understand in the world of technology
+- 👀 I'm interested in understanding the world of technology
 - 🌱 I’m currently learning about Python
 
 
